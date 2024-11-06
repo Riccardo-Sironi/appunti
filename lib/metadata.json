@@ -1,6 +1,6 @@
 {
   "vaultName": "Notes",
-  "lastExport": 1730586945898,
+  "lastExport": 1730892088077,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon code-styler code-styler-style-inline code-styler-gutter-highlight h2-underline",
   "useCustomHeadContent": false,
@@ -124,6 +124,8 @@
     "03. Architettura dei Cacolatori e Sistemi Operativi/RISC-V.md",
     "04. Logica e Algebra/Logica Proposizionale.md",
     "04. Logica e Algebra/Relazioni Binarie.md",
+    "05. Misure/media/D-A.png",
+    "05. Misure/Convertitori A-D e D-A.md",
     "05. Misure/Incertezza.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -569,8 +571,8 @@
       ]
     },
     "00. Fisica/Corpo Rigido.md": {
-      "modifiedTime": 1730585124645,
-      "sourceSize": 7839,
+      "modifiedTime": 1730892088077,
+      "sourceSize": 7837,
       "exportedPath": "00.-fisica/corpo-rigido.html",
       "dependencies": [
         "00.-fisica/media/hyugens.jpg",
@@ -588,8 +590,8 @@
       ]
     },
     "00. Fisica/Domande di Teoria.md": {
-      "modifiedTime": 1730586945898,
-      "sourceSize": 21707,
+      "modifiedTime": 1730892088077,
+      "sourceSize": 21709,
       "exportedPath": "00.-fisica/domande-di-teoria.html",
       "dependencies": [
         "00.-fisica/media/k-pc.jpg",
@@ -599,8 +601,8 @@
       ]
     },
     "00. Fisica/Fluidodinamica.md": {
-      "modifiedTime": 1730586537659,
-      "sourceSize": 4801,
+      "modifiedTime": 1730892088077,
+      "sourceSize": 4792,
       "exportedPath": "00.-fisica/fluidodinamica.html",
       "dependencies": [
         "00.-fisica/media/sup.png",
@@ -610,8 +612,8 @@
       ]
     },
     "00. Fisica/Gravitazione.md": {
-      "modifiedTime": 1730585124645,
-      "sourceSize": 4542,
+      "modifiedTime": 1730892088077,
+      "sourceSize": 4545,
       "exportedPath": "00.-fisica/gravitazione.html",
       "dependencies": [
         "00.-fisica/media/plot1.jpeg",
@@ -1045,8 +1047,8 @@
       "dependencies": []
     },
     "02. Analisi II/Equazioni Differenziali Ordinarie.md": {
-      "modifiedTime": 1730586945898,
-      "sourceSize": 24584,
+      "modifiedTime": 1730892088077,
+      "sourceSize": 24551,
       "exportedPath": "02.-analisi-ii/equazioni-differenziali-ordinarie.html",
       "dependencies": []
     },
@@ -1057,8 +1059,8 @@
       "dependencies": []
     },
     "02. Analisi II/Serie di Funzioni.md": {
-      "modifiedTime": 1730586537659,
-      "sourceSize": 24266,
+      "modifiedTime": 1730892088077,
+      "sourceSize": 24206,
       "exportedPath": "02.-analisi-ii/serie-di-funzioni.html",
       "dependencies": []
     },
@@ -1138,14 +1140,14 @@
       "dependencies": []
     },
     "04. Logica e Algebra/Relazioni Binarie.md": {
-      "modifiedTime": 1730586537659,
+      "modifiedTime": 1730892088077,
       "sourceSize": 21335,
       "exportedPath": "04.-logica-e-algebra/relazioni-binarie.html",
       "dependencies": []
     },
     "05. Misure/Incertezza.md": {
-      "modifiedTime": 1730586537659,
-      "sourceSize": 4572,
+      "modifiedTime": 1730892088077,
+      "sourceSize": 6362,
       "exportedPath": "05.-misure/incertezza.html",
       "dependencies": []
     },
@@ -1180,19 +1182,19 @@
       "dependencies": []
     },
     "00.-fisica/media/hyugens.jpg": {
-      "modifiedTime": 1730585124645,
+      "modifiedTime": 1730892088077,
       "sourceSize": 83584,
       "exportedPath": "00.-fisica/media/hyugens.jpg",
       "dependencies": []
     },
     "00.-fisica/media/moto_del_corpo_rigido.jpeg": {
-      "modifiedTime": 1730585124645,
+      "modifiedTime": 1730892088077,
       "sourceSize": 36551,
       "exportedPath": "00.-fisica/media/moto_del_corpo_rigido.jpeg",
       "dependencies": []
     },
     "00.-fisica/media/rotazione.png": {
-      "modifiedTime": 1730585124645,
+      "modifiedTime": 1730892088077,
       "sourceSize": 41408,
       "exportedPath": "00.-fisica/media/rotazione.png",
       "dependencies": []
@@ -1210,61 +1212,61 @@
       "dependencies": []
     },
     "00.-fisica/media/k-pc.jpg": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 111331,
       "exportedPath": "00.-fisica/media/k-pc.jpg",
       "dependencies": []
     },
     "00.-fisica/media/k-pc2.jpg": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 127989,
       "exportedPath": "00.-fisica/media/k-pc2.jpg",
       "dependencies": []
     },
     "00.-fisica/media/c-kp.jpg": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 104394,
       "exportedPath": "00.-fisica/media/c-kp.jpg",
       "dependencies": []
     },
     "00.-fisica/media/c-kp2.jpg": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 89902,
       "exportedPath": "00.-fisica/media/c-kp2.jpg",
       "dependencies": []
     },
     "00.-fisica/media/sup.png": {
-      "modifiedTime": 1730586537659,
+      "modifiedTime": 1730892088077,
       "sourceSize": 161948,
       "exportedPath": "00.-fisica/media/sup.png",
       "dependencies": []
     },
     "00.-fisica/media/nav_eq.png": {
-      "modifiedTime": 1730586537659,
+      "modifiedTime": 1730892088077,
       "sourceSize": 150088,
       "exportedPath": "00.-fisica/media/nav_eq.png",
       "dependencies": []
     },
     "00.-fisica/media/press.png": {
-      "modifiedTime": 1730586537659,
+      "modifiedTime": 1730892088077,
       "sourceSize": 74502,
       "exportedPath": "00.-fisica/media/press.png",
       "dependencies": []
     },
     "00.-fisica/media/iso_press.png": {
-      "modifiedTime": 1730586537659,
+      "modifiedTime": 1730892088077,
       "sourceSize": 150890,
       "exportedPath": "00.-fisica/media/iso_press.png",
       "dependencies": []
     },
     "00.-fisica/media/plot1.jpeg": {
-      "modifiedTime": 1730585124645,
+      "modifiedTime": 1730892088077,
       "sourceSize": 26278,
       "exportedPath": "00.-fisica/media/plot1.jpeg",
       "dependencies": []
     },
     "00.-fisica/media/potenzialeefficace.jpg": {
-      "modifiedTime": 1730585124645,
+      "modifiedTime": 1730892088077,
       "sourceSize": 11970,
       "exportedPath": "00.-fisica/media/potenzialeefficace.jpg",
       "dependencies": []
@@ -1708,321 +1710,341 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1730586945898,
-      "sourceSize": 107920,
+      "modifiedTime": 1730892088077,
+      "sourceSize": 110545,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1730586945898,
-      "sourceSize": 1653,
+      "modifiedTime": 1730892088077,
+      "sourceSize": 1721,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1730586945898,
-      "sourceSize": 131134,
+      "modifiedTime": 1730892088077,
+      "sourceSize": 131107,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 4839046,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 41426,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 345,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1730586945898,
+      "modifiedTime": 1730892088077,
       "sourceSize": 23640,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1730586945898,
-      "sourceSize": 24890,
+      "modifiedTime": 1730892088077,
+      "sourceSize": 25253,
       "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "05. Misure/media/D-A.png": {
+      "modifiedTime": 1730892088077,
+      "sourceSize": 20199,
+      "exportedPath": "05.-misure/media/d-a.png",
+      "dependencies": []
+    },
+    "05. Misure/Convertitori A-D e D-A.md": {
+      "modifiedTime": 1730892088077,
+      "sourceSize": 126,
+      "exportedPath": "05.-misure/convertitori-a-d-e-d-a.html",
+      "dependencies": [
+        "05.-misure/media/d-a.png"
+      ]
+    },
+    "05.-misure/media/d-a.png": {
+      "modifiedTime": 1730892088077,
+      "sourceSize": 20199,
+      "exportedPath": "05.-misure/media/d-a.png",
       "dependencies": []
     }
   }
