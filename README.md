@@ -1,3 +1,3 @@
 # Appunti del Corso di Laurea L08 - Ingegneria Informatica
 
-Collegarsi a questo [link](https://appunti.riccardosironi.it)
+Per accedere al sito, collegarsi a questo [link](https://appunti.riccardosironi.it)
