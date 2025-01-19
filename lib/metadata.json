@@ -1,6 +1,6 @@
 {
   "vaultName": "Notes",
-  "lastExport": 1734134799566,
+  "lastExport": 1737312552024,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon code-styler code-styler-style-inline code-styler-gutter-highlight background-settings-workplace-theme-light-in-the-note background-settings-workplace-theme-dark-in-the-sky background-image-settings-markdown-page-transparent notebook-liked-markdown-page-grid-notebook-1 panel-page-bg-theme-light-wall panel-page-bg-theme-dark-plant layout-style-options-default remove-heading-indicator bt-default-unordered-list default-ol-list-marker list-no-border bt-connected-indent-hover bt-colorful-connected-indent-hover folder-icons remove-arrow bt-toggle-colorful-folder folder-style-change-options-colorful-border folder-colorful-six table-width-100 tag-default admonition-bg-color-same style-options-for-admonition-plugin style-options-for-buttons-plugin dataview-list-style-pacman memos-banner-gradient thino-frosted-style thino-background-default quiet-outline-optimize code-theme-bt-default whole-code-wrap",
   "useCustomHeadContent": false,
@@ -110,6 +110,7 @@
     "01. Elettrotecnica/Circuiti Trifase.md",
     "02. Analisi II/media/cgreat0.png",
     "02. Analisi II/media/cless0.png",
+    "02. Analisi II/media/dom_vinc.png",
     "02. Analisi II/media/spherical_ coordinates.png",
     "02. Analisi II/media/y=0.png",
     "02. Analisi II/Curve nel Piano e nello Spazio.md",
@@ -125,6 +126,7 @@
     "03. Architettura dei Cacolatori e Sistemi Operativi/Media/CPU.png",
     "03. Architettura dei Cacolatori e Sistemi Operativi/Media/Decoder.png",
     "03. Architettura dei Cacolatori e Sistemi Operativi/Media/Demux.png",
+    "03. Architettura dei Cacolatori e Sistemi Operativi/Media/EseDecom.png",
     "03. Architettura dei Cacolatori e Sistemi Operativi/Media/Full-Adder.png",
     "03. Architettura dei Cacolatori e Sistemi Operativi/Media/Half-Adder.png",
     "03. Architettura dei Cacolatori e Sistemi Operativi/Media/Instructions_format.png",
@@ -133,12 +135,15 @@
     "03. Architettura dei Cacolatori e Sistemi Operativi/Media/Logical_Shift.jpg",
     "03. Architettura dei Cacolatori e Sistemi Operativi/Media/MUX.png",
     "03. Architettura dei Cacolatori e Sistemi Operativi/Media/MUX-Logic.png",
+    "03. Architettura dei Cacolatori e Sistemi Operativi/Media/Page Walk.png",
+    "03. Architettura dei Cacolatori e Sistemi Operativi/Media/PageWalkExe.png",
+    "03. Architettura dei Cacolatori e Sistemi Operativi/Media/VMA_Ese.png",
     "03. Architettura dei Cacolatori e Sistemi Operativi/Gestione della Memoria Fisica.md",
     "03. Architettura dei Cacolatori e Sistemi Operativi/Logica Booleana.md",
+    "03. Architettura dei Cacolatori e Sistemi Operativi/Memoria Virtuale.md",
     "03. Architettura dei Cacolatori e Sistemi Operativi/RISC-V.md",
     "03. Architettura dei Cacolatori e Sistemi Operativi/Scheduler.md",
     "03. Architettura dei Cacolatori e Sistemi Operativi/Thread.md",
-    "03. Architettura dei Cacolatori e Sistemi Operativi/Virtual Memory.md",
     "04. Logica e Algebra/Logica del Primo Ordine.md",
     "04. Logica e Algebra/Logica Proposizionale.md",
     "04. Logica e Algebra/Relazioni e Funzioni.md",
@@ -1107,43 +1112,44 @@
       "dependencies": []
     },
     "02. Analisi II/Curve nel Piano e nello Spazio.md": {
-      "modifiedTime": 1734134646545,
-      "sourceSize": 8251,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 8265,
       "exportedPath": "02.-analisi-ii/curve-nel-piano-e-nello-spazio.html",
       "dependencies": []
     },
     "02. Analisi II/Equazioni Differenziali Ordinarie.md": {
-      "modifiedTime": 1733868965557,
-      "sourceSize": 26760,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 27159,
       "exportedPath": "02.-analisi-ii/equazioni-differenziali-ordinarie.html",
       "dependencies": []
     },
     "02. Analisi II/Formule ed Esempi.md": {
-      "modifiedTime": 1734134646545,
-      "sourceSize": 20736,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 29381,
       "exportedPath": "02.-analisi-ii/formule-ed-esempi.html",
       "dependencies": [
         "02.-analisi-ii/media/y=0.png",
         "02.-analisi-ii/media/cless0.png",
-        "02.-analisi-ii/media/cgreat0.png"
+        "02.-analisi-ii/media/cgreat0.png",
+        "02.-analisi-ii/media/dom_vinc.png"
       ]
     },
     "02. Analisi II/Funzioni in più variabili.md": {
-      "modifiedTime": 1733868965557,
-      "sourceSize": 32895,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 32915,
       "exportedPath": "02.-analisi-ii/funzioni-in-più-variabili.html",
       "dependencies": []
     },
     "02. Analisi II/Integrali Multipli.md": {
-      "modifiedTime": 1733856124410,
-      "sourceSize": 7235,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 7259,
       "exportedPath": "02.-analisi-ii/integrali-multipli.html",
       "dependencies": [
         "02.-analisi-ii/media/spherical_-coordinates.png"
       ]
     },
     "02. Analisi II/Serie di Funzioni.md": {
-      "modifiedTime": 1733868965557,
+      "modifiedTime": 1737312552024,
       "sourceSize": 24345,
       "exportedPath": "02.-analisi-ii/serie-di-funzioni.html",
       "dependencies": []
@@ -1239,8 +1245,8 @@
       "dependencies": []
     },
     "03. Architettura dei Cacolatori e Sistemi Operativi/Gestione della Memoria Fisica.md": {
-      "modifiedTime": 1734134646545,
-      "sourceSize": 9992,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 9993,
       "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/gestione-della-memoria-fisica.html",
       "dependencies": []
     },
@@ -1273,21 +1279,15 @@
       ]
     },
     "03. Architettura dei Cacolatori e Sistemi Operativi/Scheduler.md": {
-      "modifiedTime": 1733856124410,
-      "sourceSize": 3956,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 3855,
       "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/scheduler.html",
       "dependencies": []
     },
     "03. Architettura dei Cacolatori e Sistemi Operativi/Thread.md": {
-      "modifiedTime": 1733856124410,
-      "sourceSize": 3567,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 3602,
       "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/thread.html",
-      "dependencies": []
-    },
-    "03. Architettura dei Cacolatori e Sistemi Operativi/Virtual Memory.md": {
-      "modifiedTime": 1733856124410,
-      "sourceSize": 1102,
-      "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/virtual-memory.html",
       "dependencies": []
     },
     "04. Logica e Algebra/Logica del Primo Ordine.md": {
@@ -1297,20 +1297,20 @@
       "dependencies": []
     },
     "04. Logica e Algebra/Logica Proposizionale.md": {
-      "modifiedTime": 1733856124410,
-      "sourceSize": 14176,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 14154,
       "exportedPath": "04.-logica-e-algebra/logica-proposizionale.html",
       "dependencies": []
     },
     "04. Logica e Algebra/Relazioni e Funzioni.md": {
-      "modifiedTime": 1733856124410,
-      "sourceSize": 21335,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 21345,
       "exportedPath": "04.-logica-e-algebra/relazioni-e-funzioni.html",
       "dependencies": []
     },
     "04. Logica e Algebra/Strutture Algebriche.md": {
-      "modifiedTime": 1733856124410,
-      "sourceSize": 8198,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 9604,
       "exportedPath": "04.-logica-e-algebra/strutture-algebriche.html",
       "dependencies": []
     },
@@ -1879,25 +1879,25 @@
       "dependencies": []
     },
     "02.-analisi-ii/media/y=0.png": {
-      "modifiedTime": 1734134646545,
+      "modifiedTime": 1737312552024,
       "sourceSize": 4191,
       "exportedPath": "02.-analisi-ii/media/y=0.png",
       "dependencies": []
     },
     "02.-analisi-ii/media/cless0.png": {
-      "modifiedTime": 1734134646545,
+      "modifiedTime": 1737312552024,
       "sourceSize": 23944,
       "exportedPath": "02.-analisi-ii/media/cless0.png",
       "dependencies": []
     },
     "02.-analisi-ii/media/cgreat0.png": {
-      "modifiedTime": 1734134646545,
+      "modifiedTime": 1737312552024,
       "sourceSize": 20932,
       "exportedPath": "02.-analisi-ii/media/cgreat0.png",
       "dependencies": []
     },
     "02.-analisi-ii/media/spherical_-coordinates.png": {
-      "modifiedTime": 1733856124410,
+      "modifiedTime": 1737312552024,
       "sourceSize": 36961,
       "exportedPath": "02.-analisi-ii/media/spherical_-coordinates.png",
       "dependencies": []
@@ -2005,325 +2005,325 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1734134799566,
-      "sourceSize": 131512,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 135870,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1734134799566,
-      "sourceSize": 2568,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 2753,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 131118,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1734134799566,
-      "sourceSize": 4839312,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 4836198,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 853897,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 345,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 219,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 23640,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1734134799566,
+      "modifiedTime": 1737312552024,
       "sourceSize": 49208,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
@@ -2341,9 +2341,80 @@
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1734134799566,
-      "sourceSize": 1087,
+      "modifiedTime": 1737312552024,
+      "sourceSize": 1037,
       "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "02. Analisi II/media/dom_vinc.png": {
+      "modifiedTime": 1737312552024,
+      "sourceSize": 31456,
+      "exportedPath": "02.-analisi-ii/media/dom_vinc.png",
+      "dependencies": []
+    },
+    "03. Architettura dei Cacolatori e Sistemi Operativi/Media/EseDecom.png": {
+      "modifiedTime": 1737312552024,
+      "sourceSize": 86994,
+      "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/esedecom.png",
+      "dependencies": []
+    },
+    "03. Architettura dei Cacolatori e Sistemi Operativi/Media/Page Walk.png": {
+      "modifiedTime": 1737312552024,
+      "sourceSize": 87603,
+      "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/page-walk.png",
+      "dependencies": []
+    },
+    "03. Architettura dei Cacolatori e Sistemi Operativi/Media/PageWalkExe.png": {
+      "modifiedTime": 1737312552024,
+      "sourceSize": 42206,
+      "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/pagewalkexe.png",
+      "dependencies": []
+    },
+    "03. Architettura dei Cacolatori e Sistemi Operativi/Media/VMA_Ese.png": {
+      "modifiedTime": 1737312552024,
+      "sourceSize": 74667,
+      "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/vma_ese.png",
+      "dependencies": []
+    },
+    "03. Architettura dei Cacolatori e Sistemi Operativi/Memoria Virtuale.md": {
+      "modifiedTime": 1737312552024,
+      "sourceSize": 30015,
+      "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/memoria-virtuale.html",
+      "dependencies": [
+        "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/vma_ese.png",
+        "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/page-walk.png",
+        "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/pagewalkexe.png",
+        "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/esedecom.png"
+      ]
+    },
+    "02.-analisi-ii/media/dom_vinc.png": {
+      "modifiedTime": 1737312552024,
+      "sourceSize": 31456,
+      "exportedPath": "02.-analisi-ii/media/dom_vinc.png",
+      "dependencies": []
+    },
+    "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/vma_ese.png": {
+      "modifiedTime": 1737312552024,
+      "sourceSize": 74667,
+      "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/vma_ese.png",
+      "dependencies": []
+    },
+    "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/page-walk.png": {
+      "modifiedTime": 1737312552024,
+      "sourceSize": 87603,
+      "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/page-walk.png",
+      "dependencies": []
+    },
+    "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/pagewalkexe.png": {
+      "modifiedTime": 1737312552024,
+      "sourceSize": 42206,
+      "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/pagewalkexe.png",
+      "dependencies": []
+    },
+    "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/esedecom.png": {
+      "modifiedTime": 1737312552024,
+      "sourceSize": 86994,
+      "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/esedecom.png",
       "dependencies": []
     }
   }
