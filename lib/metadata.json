@@ -1,6 +1,6 @@
 {
   "vaultName": "Notes",
-  "lastExport": 1738422201539,
+  "lastExport": 1749143361719,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon code-styler code-styler-style-inline code-styler-gutter-highlight background-settings-workplace-theme-light-in-the-note background-settings-workplace-theme-dark-in-the-sky background-image-settings-markdown-page-transparent notebook-liked-markdown-page-grid-notebook-1 panel-page-bg-theme-light-wall panel-page-bg-theme-dark-plant layout-style-options-default remove-heading-indicator bt-default-unordered-list default-ol-list-marker list-no-border bt-connected-indent-hover bt-colorful-connected-indent-hover folder-icons remove-arrow bt-toggle-colorful-folder folder-style-change-options-colorful-border folder-colorful-six table-width-100 tag-default admonition-bg-color-same style-options-for-admonition-plugin style-options-for-buttons-plugin dataview-list-style-pacman memos-banner-gradient thino-frosted-style thino-background-default quiet-outline-optimize code-theme-bt-default whole-code-wrap",
   "useCustomHeadContent": false,
@@ -108,15 +108,15 @@
     "01. Elettrotecnica/Circuiti.md",
     "01. Elettrotecnica/Circuiti RC-RL.md",
     "01. Elettrotecnica/Circuiti Trifase.md",
-    "02. Analisi II/media/autonome-disgiunti.png",
+    "02. Analisi II/media/cc.png",
     "02. Analisi II/media/cgreat0.png",
     "02. Analisi II/media/cless0.png",
     "02. Analisi II/media/dom_vinc.png",
-    "02. Analisi II/media/imag.png",
-    "02. Analisi II/media/neg.png",
-    "02. Analisi II/media/Segno_pos.png",
+    "02. Analisi II/media/ellissi.png",
+    "02. Analisi II/media/real_dist.png",
+    "02. Analisi II/media/real_op.png",
+    "02. Analisi II/media/real_ssign.png",
     "02. Analisi II/media/spherical_ coordinates.png",
-    "02. Analisi II/media/spiral.png",
     "02. Analisi II/media/y=0.png",
     "02. Analisi II/Curve nel Piano e nello Spazio.md",
     "02. Analisi II/Equazioni Differenziali Ordinarie.md",
@@ -153,14 +153,61 @@
     "04. Logica e Algebra/Logica Proposizionale.md",
     "04. Logica e Algebra/Relazioni e Funzioni.md",
     "04. Logica e Algebra/Strutture Algebriche.md",
-    "05. Misure/media/D-A.png",
-    "05. Misure/media/DAQ.png",
-    "05. Misure/media/Segnali-grazie-ale.png",
-    "05. Misure/media/sunset.png",
-    "05. Misure/Campionamento DAQ.md",
-    "05. Misure/Convertitori A-D e D-A.md",
-    "05. Misure/Incertezza.md",
-    "05. Misure/Oscilloscopio.md",
+    "05. Fondamenti di Automatica/media/block.png",
+    "05. Fondamenti di Automatica/media/CLS.png",
+    "05. Fondamenti di Automatica/media/convolution.png",
+    "05. Fondamenti di Automatica/media/dir_node.png",
+    "05. Fondamenti di Automatica/media/jordan1.png",
+    "05. Fondamenti di Automatica/media/Jordan2.png",
+    "05. Fondamenti di Automatica/media/LTI SISO.jpeg",
+    "05. Fondamenti di Automatica/media/mod_img.png",
+    "05. Fondamenti di Automatica/media/module.png",
+    "05. Fondamenti di Automatica/media/mu.jpeg",
+    "05. Fondamenti di Automatica/media/OLS.png",
+    "05. Fondamenti di Automatica/media/parallel.png",
+    "05. Fondamenti di Automatica/media/phase diag.png",
+    "05. Fondamenti di Automatica/media/phase_zero.png",
+    "05. Fondamenti di Automatica/media/retroactive_neg.png",
+    "05. Fondamenti di Automatica/media/retroactive_pos.png",
+    "05. Fondamenti di Automatica/media/series.png",
+    "05. Fondamenti di Automatica/media/Sistema RL.jpeg",
+    "05. Fondamenti di Automatica/media/sum_node.png",
+    "05. Fondamenti di Automatica/media/true_diag.png",
+    "05. Fondamenti di Automatica/media/zero_reale.png",
+    "05. Fondamenti di Automatica/Risposta in Frequenza.md",
+    "05. Fondamenti di Automatica/Schema a Blocchi.md",
+    "05. Fondamenti di Automatica/Sistemi a Tempo Continuo.md",
+    "05. Fondamenti di Automatica/Sistemi a Tempo Discreto.md",
+    "05. Fondamenti di Automatica/Sistemi Dinamici a Tempo Continuo.md",
+    "06. Probabilità e Statistica/media/prob.png",
+    "06. Probabilità e Statistica/Calcolo Combinatorio.md",
+    "06. Probabilità e Statistica/Probabilità.md",
+    "06. Probabilità e Statistica/Statistica.md",
+    "06. Probabilità e Statistica/Variabili Aleatorie.md",
+    "06. Probabilità e Statistica/Vettori Aleatori.md",
+    "07. Algoritmi e Principi dell'Informatica/media/FSA.png",
+    "07. Algoritmi e Principi dell'Informatica/media/fsa-mso.png",
+    "07. Algoritmi e Principi dell'Informatica/media/FST.png",
+    "07. Algoritmi e Principi dell'Informatica/media/gram.png",
+    "07. Algoritmi e Principi dell'Informatica/media/Intersezione.png",
+    "07. Algoritmi e Principi dell'Informatica/media/lvl2toNPDA.png",
+    "07. Algoritmi e Principi dell'Informatica/media/NFA.png",
+    "07. Algoritmi e Principi dell'Informatica/media/NPDA.png",
+    "07. Algoritmi e Principi dell'Informatica/media/PDA.png",
+    "07. Algoritmi e Principi dell'Informatica/media/PDA2.png",
+    "07. Algoritmi e Principi dell'Informatica/media/RAM.png",
+    "07. Algoritmi e Principi dell'Informatica/media/RAM_ES.png",
+    "07. Algoritmi e Principi dell'Informatica/media/RAM_ES_2.png",
+    "07. Algoritmi e Principi dell'Informatica/media/recursion_tree.png",
+    "07. Algoritmi e Principi dell'Informatica/media/sorting.png",
+    "07. Algoritmi e Principi dell'Informatica/media/TM.png",
+    "07. Algoritmi e Principi dell'Informatica/media/TM2.png",
+    "07. Algoritmi e Principi dell'Informatica/media/TM3.png",
+    "07. Algoritmi e Principi dell'Informatica/Automi.md",
+    "07. Algoritmi e Principi dell'Informatica/Complessità di Calcolo.md",
+    "07. Algoritmi e Principi dell'Informatica/Grammatiche.md",
+    "07. Algoritmi e Principi dell'Informatica/Logica.md",
+    "07. Algoritmi e Principi dell'Informatica/Teoria della Computazione.md",
     "index.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -329,11 +376,7 @@
     "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/logical_shift.jpg",
     "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/instructions_pt1.png",
     "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/instructions_pt2.png",
-    "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/instructions_format.png",
-    "05.-misure/media/daq.png",
-    "05.-misure/media/segnali-grazie-ale.png",
-    "05.-misure/media/sunset.png",
-    "05.-misure/media/d-a.png"
+    "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/instructions_format.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -621,8 +664,8 @@
       "dependencies": []
     },
     "00. Fisica/Cinematica.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 7744,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 7717,
       "exportedPath": "00.-fisica/cinematica.html",
       "dependencies": [
         "00.-fisica/media/harmonic.png",
@@ -633,7 +676,7 @@
       ]
     },
     "00. Fisica/Corpo Rigido.md": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 7837,
       "exportedPath": "00.-fisica/corpo-rigido.html",
       "dependencies": [
@@ -643,8 +686,8 @@
       ]
     },
     "00. Fisica/Dinamica.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 3045,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 3047,
       "exportedPath": "00.-fisica/dinamica.html",
       "dependencies": [
         "00.-fisica/media/conic_pendulum.png",
@@ -652,8 +695,8 @@
       ]
     },
     "00. Fisica/Domande di Teoria.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 21715,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 21670,
       "exportedPath": "00.-fisica/domande-di-teoria.html",
       "dependencies": [
         "00.-fisica/media/k-pc.jpg",
@@ -683,14 +726,14 @@
       ]
     },
     "00. Fisica/Lavoro.md": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 3323,
       "exportedPath": "00.-fisica/lavoro.html",
       "dependencies": []
     },
     "00. Fisica/Termodinamica.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 12901,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 12900,
       "exportedPath": "00.-fisica/termodinamica.html",
       "dependencies": [
         "00.-fisica/media/ciclo_termo.jpg",
@@ -1038,8 +1081,8 @@
       ]
     },
     "01. Elettrotecnica/Circuiti.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 15926,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 15976,
       "exportedPath": "01.-elettrotecnica/circuiti.html",
       "dependencies": [
         "01.-elettrotecnica/media/conv_degli_utilizzatori.png",
@@ -1089,7 +1132,7 @@
       ]
     },
     "01. Elettrotecnica/Circuiti Trifase.md": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 3720,
       "exportedPath": "01.-elettrotecnica/circuiti-trifase.html",
       "dependencies": [
@@ -1127,21 +1170,21 @@
       "dependencies": []
     },
     "02. Analisi II/Curve nel Piano e nello Spazio.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 8265,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 7812,
       "exportedPath": "02.-analisi-ii/curve-nel-piano-e-nello-spazio.html",
       "dependencies": []
     },
     "02. Analisi II/Equazioni Differenziali Ordinarie.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 32895,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 32943,
       "exportedPath": "02.-analisi-ii/equazioni-differenziali-ordinarie.html",
       "dependencies": [
-        "02.-analisi-ii/media/autonome-disgiunti.png",
-        "02.-analisi-ii/media/segno_pos.png",
-        "02.-analisi-ii/media/neg.png",
-        "02.-analisi-ii/media/imag.png",
-        "02.-analisi-ii/media/spiral.png"
+        "02.-analisi-ii/media/real_op.png",
+        "02.-analisi-ii/media/real_ssign.png",
+        "02.-analisi-ii/media/real_dist.png",
+        "02.-analisi-ii/media/ellissi.png",
+        "02.-analisi-ii/media/cc.png"
       ]
     },
     "02. Analisi II/Formule ed Esempi.md": {
@@ -1156,8 +1199,8 @@
       ]
     },
     "02. Analisi II/Funzioni in più variabili.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 32915,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 30030,
       "exportedPath": "02.-analisi-ii/funzioni-in-più-variabili.html",
       "dependencies": []
     },
@@ -1170,8 +1213,8 @@
       ]
     },
     "02. Analisi II/Serie di Funzioni.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 24345,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 24348,
       "exportedPath": "02.-analisi-ii/serie-di-funzioni.html",
       "dependencies": []
     },
@@ -1312,20 +1355,20 @@
       "dependencies": []
     },
     "04. Logica e Algebra/Logica del Primo Ordine.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 13763,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 13764,
       "exportedPath": "04.-logica-e-algebra/logica-del-primo-ordine.html",
       "dependencies": []
     },
     "04. Logica e Algebra/Logica Proposizionale.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 14931,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 14929,
       "exportedPath": "04.-logica-e-algebra/logica-proposizionale.html",
       "dependencies": []
     },
     "04. Logica e Algebra/Relazioni e Funzioni.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 21461,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 21457,
       "exportedPath": "04.-logica-e-algebra/relazioni-e-funzioni.html",
       "dependencies": []
     },
@@ -1335,134 +1378,86 @@
       "exportedPath": "04.-logica-e-algebra/strutture-algebriche.html",
       "dependencies": []
     },
-    "05. Misure/media/D-A.png": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 20199,
-      "exportedPath": "05.-misure/media/d-a.png",
-      "dependencies": []
-    },
-    "05. Misure/media/DAQ.png": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 40695,
-      "exportedPath": "05.-misure/media/daq.png",
-      "dependencies": []
-    },
-    "05. Misure/media/Segnali-grazie-ale.png": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 38777,
-      "exportedPath": "05.-misure/media/segnali-grazie-ale.png",
-      "dependencies": []
-    },
-    "05. Misure/Campionamento DAQ.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 4299,
-      "exportedPath": "05.-misure/campionamento-daq.html",
-      "dependencies": [
-        "05.-misure/media/daq.png",
-        "05.-misure/media/segnali-grazie-ale.png",
-        "05.-misure/media/sunset.png"
-      ]
-    },
-    "05. Misure/Convertitori A-D e D-A.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 423,
-      "exportedPath": "05.-misure/convertitori-a-d-e-d-a.html",
-      "dependencies": [
-        "05.-misure/media/d-a.png"
-      ]
-    },
-    "05. Misure/Incertezza.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 6884,
-      "exportedPath": "05.-misure/incertezza.html",
-      "dependencies": []
-    },
-    "05. Misure/Oscilloscopio.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 919,
-      "exportedPath": "05.-misure/oscilloscopio.html",
-      "dependencies": []
-    },
     "00.-fisica/media/harmonic.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 6265,
       "exportedPath": "00.-fisica/media/harmonic.png",
       "dependencies": []
     },
     "00.-fisica/media/versor_derivative.jpeg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 24240,
       "exportedPath": "00.-fisica/media/versor_derivative.jpeg",
       "dependencies": []
     },
     "00.-fisica/media/acceleration.jpeg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 50858,
       "exportedPath": "00.-fisica/media/acceleration.jpeg",
       "dependencies": []
     },
     "00.-fisica/media/system.jpeg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 31306,
       "exportedPath": "00.-fisica/media/system.jpeg",
       "dependencies": []
     },
     "00.-fisica/media/system_pt2.jpeg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 20920,
       "exportedPath": "00.-fisica/media/system_pt2.jpeg",
       "dependencies": []
     },
     "00.-fisica/media/hyugens.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 83584,
       "exportedPath": "00.-fisica/media/hyugens.jpg",
       "dependencies": []
     },
     "00.-fisica/media/moto_del_corpo_rigido.jpeg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 36551,
       "exportedPath": "00.-fisica/media/moto_del_corpo_rigido.jpeg",
       "dependencies": []
     },
     "00.-fisica/media/rotazione.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 41408,
       "exportedPath": "00.-fisica/media/rotazione.png",
       "dependencies": []
     },
     "00.-fisica/media/conic_pendulum.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 10285,
       "exportedPath": "00.-fisica/media/conic_pendulum.png",
       "dependencies": []
     },
     "00.-fisica/media/math_pendulum.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 28738,
       "exportedPath": "00.-fisica/media/math_pendulum.png",
       "dependencies": []
     },
     "00.-fisica/media/k-pc.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 111331,
       "exportedPath": "00.-fisica/media/k-pc.jpg",
       "dependencies": []
     },
     "00.-fisica/media/k-pc2.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 127989,
       "exportedPath": "00.-fisica/media/k-pc2.jpg",
       "dependencies": []
     },
     "00.-fisica/media/c-kp.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 104394,
       "exportedPath": "00.-fisica/media/c-kp.jpg",
       "dependencies": []
     },
     "00.-fisica/media/c-kp2.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 89902,
       "exportedPath": "00.-fisica/media/c-kp2.jpg",
       "dependencies": []
@@ -1504,61 +1499,61 @@
       "dependencies": []
     },
     "00.-fisica/media/ciclo_termo.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 95723,
       "exportedPath": "00.-fisica/media/ciclo_termo.jpg",
       "dependencies": []
     },
     "00.-fisica/media/q_pos.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 131300,
       "exportedPath": "00.-fisica/media/q_pos.jpg",
       "dependencies": []
     },
     "00.-fisica/media/eq-term.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 152886,
       "exportedPath": "00.-fisica/media/eq-term.jpg",
       "dependencies": []
     },
     "00.-fisica/media/conduzione.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 27374,
       "exportedPath": "00.-fisica/media/conduzione.jpg",
       "dependencies": []
     },
     "00.-fisica/media/macc_monoterm.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 82279,
       "exportedPath": "00.-fisica/media/macc_monoterm.jpg",
       "dependencies": []
     },
     "00.-fisica/media/macc_term.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 50983,
       "exportedPath": "00.-fisica/media/macc_term.jpg",
       "dependencies": []
     },
     "00.-fisica/media/macc_frigo.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 78985,
       "exportedPath": "00.-fisica/media/macc_frigo.jpg",
       "dependencies": []
     },
     "00.-fisica/media/sec_princip.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 91564,
       "exportedPath": "00.-fisica/media/sec_princip.jpg",
       "dependencies": []
     },
     "00.-fisica/media/carnot_cycle.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 6802,
       "exportedPath": "00.-fisica/media/carnot_cycle.png",
       "dependencies": []
     },
     "00.-fisica/media/entropy.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 53607,
       "exportedPath": "00.-fisica/media/entropy.jpg",
       "dependencies": []
@@ -1636,169 +1631,169 @@
       "dependencies": []
     },
     "01.-elettrotecnica/media/conv_degli_utilizzatori.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 1911,
       "exportedPath": "01.-elettrotecnica/media/conv_degli_utilizzatori.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/conv_dei_generatori.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 1882,
       "exportedPath": "01.-elettrotecnica/media/conv_dei_generatori.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/resistor.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 1435,
       "exportedPath": "01.-elettrotecnica/media/resistor.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/series.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 1743,
       "exportedPath": "01.-elettrotecnica/media/series.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/parallel.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 3026,
       "exportedPath": "01.-elettrotecnica/media/parallel.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/generatore.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 1849,
       "exportedPath": "01.-elettrotecnica/media/generatore.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/gen_non_ten.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 2656,
       "exportedPath": "01.-elettrotecnica/media/gen_non_ten.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/current_gen.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 1867,
       "exportedPath": "01.-elettrotecnica/media/current_gen.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/gen_non_corr.jpeg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 23483,
       "exportedPath": "01.-elettrotecnica/media/gen_non_corr.jpeg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/gens_non_id.jpeg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 39515,
       "exportedPath": "01.-elettrotecnica/media/gens_non_id.jpeg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/ten+ten.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 2438,
       "exportedPath": "01.-elettrotecnica/media/ten+ten.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/ten+curr.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 2481,
       "exportedPath": "01.-elettrotecnica/media/ten+curr.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/para_curr+curr.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 3306,
       "exportedPath": "01.-elettrotecnica/media/para_curr+curr.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/para_ten+curr.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 3197,
       "exportedPath": "01.-elettrotecnica/media/para_ten+curr.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/controlled_gen.jpeg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 86330,
       "exportedPath": "01.-elettrotecnica/media/controlled_gen.jpeg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/shortcircuit.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 1118,
       "exportedPath": "01.-elettrotecnica/media/shortcircuit.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/opencircuit.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 1125,
       "exportedPath": "01.-elettrotecnica/media/opencircuit.png",
       "dependencies": []
     },
     "01.-elettrotecnica/media/part_ten.jpeg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 33309,
       "exportedPath": "01.-elettrotecnica/media/part_ten.jpeg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/part_corr.jpeg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 25362,
       "exportedPath": "01.-elettrotecnica/media/part_corr.jpeg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/thevenin.jpeg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 51208,
       "exportedPath": "01.-elettrotecnica/media/thevenin.jpeg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/tripolo.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 113032,
       "exportedPath": "01.-elettrotecnica/media/tripolo.jpg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/quadripolo.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 104085,
       "exportedPath": "01.-elettrotecnica/media/quadripolo.jpg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/doppio_bip.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 65932,
       "exportedPath": "01.-elettrotecnica/media/doppio_bip.jpg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/trasf.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 94948,
       "exportedPath": "01.-elettrotecnica/media/trasf.jpg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/ampl_op.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 67522,
       "exportedPath": "01.-elettrotecnica/media/ampl_op.jpg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/ampl_invert.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 165343,
       "exportedPath": "01.-elettrotecnica/media/ampl_invert.jpg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/ampl_non_invert.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 110544,
       "exportedPath": "01.-elettrotecnica/media/ampl_non_invert.jpg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/inseg_tens.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 130994,
       "exportedPath": "01.-elettrotecnica/media/inseg_tens.jpg",
       "dependencies": []
@@ -1858,43 +1853,43 @@
       "dependencies": []
     },
     "01.-elettrotecnica/media/trifase_gen.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 91667,
       "exportedPath": "01.-elettrotecnica/media/trifase_gen.jpg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/line_voltage.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 97616,
       "exportedPath": "01.-elettrotecnica/media/line_voltage.jpg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/carico_stella.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 151503,
       "exportedPath": "01.-elettrotecnica/media/carico_stella.jpg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/carico_delta.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 151228,
       "exportedPath": "01.-elettrotecnica/media/carico_delta.jpg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/pot_trifase.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 126877,
       "exportedPath": "01.-elettrotecnica/media/pot_trifase.jpg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/pot_y.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 41825,
       "exportedPath": "01.-elettrotecnica/media/pot_y.jpg",
       "dependencies": []
     },
     "01.-elettrotecnica/media/pot_del.jpg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 60704,
       "exportedPath": "01.-elettrotecnica/media/pot_del.jpg",
       "dependencies": []
@@ -2007,104 +2002,86 @@
       "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/instructions_format.png",
       "dependencies": []
     },
-    "05.-misure/media/daq.png": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 40695,
-      "exportedPath": "05.-misure/media/daq.png",
-      "dependencies": []
-    },
-    "05.-misure/media/segnali-grazie-ale.png": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 38777,
-      "exportedPath": "05.-misure/media/segnali-grazie-ale.png",
-      "dependencies": []
-    },
-    "05.-misure/media/d-a.png": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 20199,
-      "exportedPath": "05.-misure/media/d-a.png",
-      "dependencies": []
-    },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -2116,254 +2093,242 @@
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 140070,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 183546,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 2753,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 3914,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 137329,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 4836198,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 853897,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 371,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 219,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 23640,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 49208,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
-    "05. Misure/media/sunset.png": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 1945235,
-      "exportedPath": "05.-misure/media/sunset.png",
-      "dependencies": []
-    },
-    "05.-misure/media/sunset.png": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 1945235,
-      "exportedPath": "05.-misure/media/sunset.png",
-      "dependencies": []
-    },
     "index.md": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 1037,
+      "modifiedTime": 1749143361719,
+      "sourceSize": 1442,
       "exportedPath": "index.html",
       "dependencies": []
     },
@@ -2438,36 +2403,6 @@
       "exportedPath": "03.-architettura-dei-cacolatori-e-sistemi-operativi/media/esedecom.png",
       "dependencies": []
     },
-    "02. Analisi II/media/autonome-disgiunti.png": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 36345,
-      "exportedPath": "02.-analisi-ii/media/autonome-disgiunti.png",
-      "dependencies": []
-    },
-    "02. Analisi II/media/imag.png": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 1433221,
-      "exportedPath": "02.-analisi-ii/media/imag.png",
-      "dependencies": []
-    },
-    "02. Analisi II/media/neg.png": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 1232635,
-      "exportedPath": "02.-analisi-ii/media/neg.png",
-      "dependencies": []
-    },
-    "02. Analisi II/media/Segno_pos.png": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 1147526,
-      "exportedPath": "02.-analisi-ii/media/segno_pos.png",
-      "dependencies": []
-    },
-    "02. Analisi II/media/spiral.png": {
-      "modifiedTime": 1738422201539,
-      "sourceSize": 1227440,
-      "exportedPath": "02.-analisi-ii/media/spiral.png",
-      "dependencies": []
-    },
     "02.-analisi-ii/media/autonome-disgiunti.png": {
       "modifiedTime": 1738422201539,
       "sourceSize": 36345,
@@ -2499,9 +2434,688 @@
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1738422201539,
+      "modifiedTime": 1749143361719,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "02. Analisi II/media/cc.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 551271,
+      "exportedPath": "02.-analisi-ii/media/cc.png",
+      "dependencies": []
+    },
+    "02. Analisi II/media/ellissi.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 343174,
+      "exportedPath": "02.-analisi-ii/media/ellissi.png",
+      "dependencies": []
+    },
+    "02. Analisi II/media/real_dist.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 431575,
+      "exportedPath": "02.-analisi-ii/media/real_dist.png",
+      "dependencies": []
+    },
+    "02. Analisi II/media/real_op.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 135076,
+      "exportedPath": "02.-analisi-ii/media/real_op.png",
+      "dependencies": []
+    },
+    "02. Analisi II/media/real_ssign.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 408023,
+      "exportedPath": "02.-analisi-ii/media/real_ssign.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/block.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 3782,
+      "exportedPath": "05.-fondamenti-di-automatica/media/block.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/CLS.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 41235,
+      "exportedPath": "05.-fondamenti-di-automatica/media/cls.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/convolution.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 53556,
+      "exportedPath": "05.-fondamenti-di-automatica/media/convolution.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/dir_node.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 8011,
+      "exportedPath": "05.-fondamenti-di-automatica/media/dir_node.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/jordan1.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 23838,
+      "exportedPath": "05.-fondamenti-di-automatica/media/jordan1.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/Jordan2.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 16901,
+      "exportedPath": "05.-fondamenti-di-automatica/media/jordan2.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/LTI SISO.jpeg": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 17273,
+      "exportedPath": "05.-fondamenti-di-automatica/media/lti-siso.jpeg",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/mod_img.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 237718,
+      "exportedPath": "05.-fondamenti-di-automatica/media/mod_img.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/module.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 186382,
+      "exportedPath": "05.-fondamenti-di-automatica/media/module.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/mu.jpeg": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 36148,
+      "exportedPath": "05.-fondamenti-di-automatica/media/mu.jpeg",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/OLS.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 28311,
+      "exportedPath": "05.-fondamenti-di-automatica/media/ols.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/parallel.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 9983,
+      "exportedPath": "05.-fondamenti-di-automatica/media/parallel.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/phase diag.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 240823,
+      "exportedPath": "05.-fondamenti-di-automatica/media/phase-diag.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/phase_zero.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 196163,
+      "exportedPath": "05.-fondamenti-di-automatica/media/phase_zero.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/retroactive_neg.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 10406,
+      "exportedPath": "05.-fondamenti-di-automatica/media/retroactive_neg.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/retroactive_pos.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 10654,
+      "exportedPath": "05.-fondamenti-di-automatica/media/retroactive_pos.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/series.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 8091,
+      "exportedPath": "05.-fondamenti-di-automatica/media/series.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/Sistema RL.jpeg": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 22591,
+      "exportedPath": "05.-fondamenti-di-automatica/media/sistema-rl.jpeg",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/sum_node.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 8681,
+      "exportedPath": "05.-fondamenti-di-automatica/media/sum_node.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/true_diag.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 390306,
+      "exportedPath": "05.-fondamenti-di-automatica/media/true_diag.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/media/zero_reale.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 136953,
+      "exportedPath": "05.-fondamenti-di-automatica/media/zero_reale.png",
+      "dependencies": []
+    },
+    "05. Fondamenti di Automatica/Risposta in Frequenza.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 7225,
+      "exportedPath": "05.-fondamenti-di-automatica/risposta-in-frequenza.html",
+      "dependencies": [
+        "05.-fondamenti-di-automatica/media/mu.jpeg",
+        "05.-fondamenti-di-automatica/media/module.png",
+        "05.-fondamenti-di-automatica/media/mod_img.png",
+        "05.-fondamenti-di-automatica/media/zero_reale.png",
+        "05.-fondamenti-di-automatica/media/true_diag.png",
+        "05.-fondamenti-di-automatica/media/phase_zero.png",
+        "05.-fondamenti-di-automatica/media/phase-diag.png"
+      ]
+    },
+    "05. Fondamenti di Automatica/Schema a Blocchi.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 5883,
+      "exportedPath": "05.-fondamenti-di-automatica/schema-a-blocchi.html",
+      "dependencies": [
+        "05.-fondamenti-di-automatica/media/block.png",
+        "05.-fondamenti-di-automatica/media/sum_node.png",
+        "05.-fondamenti-di-automatica/media/dir_node.png",
+        "05.-fondamenti-di-automatica/media/series.png",
+        "05.-fondamenti-di-automatica/media/parallel.png",
+        "05.-fondamenti-di-automatica/media/retroactive_pos.png",
+        "05.-fondamenti-di-automatica/media/retroactive_neg.png"
+      ]
+    },
+    "05. Fondamenti di Automatica/Sistemi a Tempo Continuo.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 15515,
+      "exportedPath": "05.-fondamenti-di-automatica/sistemi-a-tempo-continuo.html",
+      "dependencies": [
+        "05.-fondamenti-di-automatica/media/ols.png",
+        "05.-fondamenti-di-automatica/media/cls.png",
+        "05.-fondamenti-di-automatica/media/lti-siso.jpeg",
+        "05.-fondamenti-di-automatica/media/convolution.png",
+        "05.-fondamenti-di-automatica/media/jordan1.png",
+        "05.-fondamenti-di-automatica/media/jordan2.png"
+      ]
+    },
+    "05. Fondamenti di Automatica/Sistemi a Tempo Discreto.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 9305,
+      "exportedPath": "05.-fondamenti-di-automatica/sistemi-a-tempo-discreto.html",
+      "dependencies": [
+        "05.-fondamenti-di-automatica/media/sistema-rl.jpeg"
+      ]
+    },
+    "05. Fondamenti di Automatica/Sistemi Dinamici a Tempo Continuo.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 13330,
+      "exportedPath": "05.-fondamenti-di-automatica/sistemi-dinamici-a-tempo-continuo.html",
+      "dependencies": []
+    },
+    "06. Probabilità e Statistica/media/prob.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 146618,
+      "exportedPath": "06.-probabilità-e-statistica/media/prob.png",
+      "dependencies": []
+    },
+    "06. Probabilità e Statistica/Calcolo Combinatorio.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 1617,
+      "exportedPath": "06.-probabilità-e-statistica/calcolo-combinatorio.html",
+      "dependencies": []
+    },
+    "06. Probabilità e Statistica/Probabilità.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 15248,
+      "exportedPath": "06.-probabilità-e-statistica/probabilità.html",
+      "dependencies": []
+    },
+    "06. Probabilità e Statistica/Statistica.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 49190,
+      "exportedPath": "06.-probabilità-e-statistica/statistica.html",
+      "dependencies": [
+        "06.-probabilità-e-statistica/media/prob.png"
+      ]
+    },
+    "06. Probabilità e Statistica/Variabili Aleatorie.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 37386,
+      "exportedPath": "06.-probabilità-e-statistica/variabili-aleatorie.html",
+      "dependencies": []
+    },
+    "06. Probabilità e Statistica/Vettori Aleatori.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 28788,
+      "exportedPath": "06.-probabilità-e-statistica/vettori-aleatori.html",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/FSA.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 26649,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/fsa.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/fsa-mso.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 82825,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/fsa-mso.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/FST.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 61306,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/fst.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/gram.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 72658,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/gram.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/Intersezione.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 42958,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/intersezione.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/lvl2toNPDA.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 394332,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/lvl2tonpda.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/NFA.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 25219,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/nfa.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/NPDA.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 80124,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/npda.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/PDA.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 58462,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/pda.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/PDA2.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 221908,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/pda2.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/RAM.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 43649,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/ram.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/RAM_ES.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 28591,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/ram_es.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/RAM_ES_2.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 36279,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/ram_es_2.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/recursion_tree.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 47510,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/recursion_tree.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/sorting.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 28883,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/sorting.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/TM.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 78574,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/tm.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/TM2.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 66281,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/tm2.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/media/TM3.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 75861,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/tm3.png",
+      "dependencies": []
+    },
+    "07. Algoritmi e Principi dell'Informatica/Automi.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 13513,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/automi.html",
+      "dependencies": [
+        "07.-algoritmi-e-principi-dell'informatica/media/fsa.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/fst.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/intersezione.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/pda.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/pda2.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/tm.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/tm2.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/tm3.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/nfa.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/npda.png"
+      ]
+    },
+    "07. Algoritmi e Principi dell'Informatica/Complessità di Calcolo.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 19953,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/complessità-di-calcolo.html",
+      "dependencies": [
+        "07.-algoritmi-e-principi-dell'informatica/media/ram.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/ram_es.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/ram_es_2.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/recursion_tree.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/sorting.png"
+      ]
+    },
+    "07. Algoritmi e Principi dell'Informatica/Grammatiche.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 1751,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/grammatiche.html",
+      "dependencies": [
+        "07.-algoritmi-e-principi-dell'informatica/media/gram.png",
+        "07.-algoritmi-e-principi-dell'informatica/media/lvl2tonpda.png"
+      ]
+    },
+    "07. Algoritmi e Principi dell'Informatica/Logica.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 4364,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/logica.html",
+      "dependencies": [
+        "07.-algoritmi-e-principi-dell'informatica/media/fsa-mso.png"
+      ]
+    },
+    "07. Algoritmi e Principi dell'Informatica/Teoria della Computazione.md": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 8752,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/teoria-della-computazione.html",
+      "dependencies": []
+    },
+    "02.-analisi-ii/media/real_op.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 135076,
+      "exportedPath": "02.-analisi-ii/media/real_op.png",
+      "dependencies": []
+    },
+    "02.-analisi-ii/media/real_ssign.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 408023,
+      "exportedPath": "02.-analisi-ii/media/real_ssign.png",
+      "dependencies": []
+    },
+    "02.-analisi-ii/media/real_dist.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 431575,
+      "exportedPath": "02.-analisi-ii/media/real_dist.png",
+      "dependencies": []
+    },
+    "02.-analisi-ii/media/ellissi.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 343174,
+      "exportedPath": "02.-analisi-ii/media/ellissi.png",
+      "dependencies": []
+    },
+    "02.-analisi-ii/media/cc.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 551271,
+      "exportedPath": "02.-analisi-ii/media/cc.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/mu.jpeg": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 36148,
+      "exportedPath": "05.-fondamenti-di-automatica/media/mu.jpeg",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/module.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 186382,
+      "exportedPath": "05.-fondamenti-di-automatica/media/module.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/mod_img.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 237718,
+      "exportedPath": "05.-fondamenti-di-automatica/media/mod_img.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/zero_reale.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 136953,
+      "exportedPath": "05.-fondamenti-di-automatica/media/zero_reale.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/true_diag.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 390306,
+      "exportedPath": "05.-fondamenti-di-automatica/media/true_diag.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/phase_zero.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 196163,
+      "exportedPath": "05.-fondamenti-di-automatica/media/phase_zero.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/phase-diag.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 240823,
+      "exportedPath": "05.-fondamenti-di-automatica/media/phase-diag.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/block.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 3782,
+      "exportedPath": "05.-fondamenti-di-automatica/media/block.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/sum_node.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 8681,
+      "exportedPath": "05.-fondamenti-di-automatica/media/sum_node.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/dir_node.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 8011,
+      "exportedPath": "05.-fondamenti-di-automatica/media/dir_node.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/series.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 8091,
+      "exportedPath": "05.-fondamenti-di-automatica/media/series.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/parallel.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 9983,
+      "exportedPath": "05.-fondamenti-di-automatica/media/parallel.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/retroactive_pos.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 10654,
+      "exportedPath": "05.-fondamenti-di-automatica/media/retroactive_pos.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/retroactive_neg.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 10406,
+      "exportedPath": "05.-fondamenti-di-automatica/media/retroactive_neg.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/ols.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 28311,
+      "exportedPath": "05.-fondamenti-di-automatica/media/ols.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/cls.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 41235,
+      "exportedPath": "05.-fondamenti-di-automatica/media/cls.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/lti-siso.jpeg": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 17273,
+      "exportedPath": "05.-fondamenti-di-automatica/media/lti-siso.jpeg",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/convolution.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 53556,
+      "exportedPath": "05.-fondamenti-di-automatica/media/convolution.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/jordan1.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 23838,
+      "exportedPath": "05.-fondamenti-di-automatica/media/jordan1.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/jordan2.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 16901,
+      "exportedPath": "05.-fondamenti-di-automatica/media/jordan2.png",
+      "dependencies": []
+    },
+    "05.-fondamenti-di-automatica/media/sistema-rl.jpeg": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 22591,
+      "exportedPath": "05.-fondamenti-di-automatica/media/sistema-rl.jpeg",
+      "dependencies": []
+    },
+    "06.-probabilità-e-statistica/media/prob.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 146618,
+      "exportedPath": "06.-probabilità-e-statistica/media/prob.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/fsa.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 26649,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/fsa.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/fst.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 61306,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/fst.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/intersezione.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 42958,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/intersezione.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/pda.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 58462,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/pda.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/pda2.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 221908,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/pda2.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/tm.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 78574,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/tm.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/tm2.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 66281,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/tm2.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/tm3.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 75861,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/tm3.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/nfa.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 25219,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/nfa.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/npda.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 80124,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/npda.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/ram.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 43649,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/ram.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/ram_es.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 28591,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/ram_es.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/ram_es_2.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 36279,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/ram_es_2.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/recursion_tree.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 47510,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/recursion_tree.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/sorting.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 28883,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/sorting.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/gram.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 72658,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/gram.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/lvl2tonpda.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 394332,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/lvl2tonpda.png",
+      "dependencies": []
+    },
+    "07.-algoritmi-e-principi-dell'informatica/media/fsa-mso.png": {
+      "modifiedTime": 1749143361719,
+      "sourceSize": 82825,
+      "exportedPath": "07.-algoritmi-e-principi-dell'informatica/media/fsa-mso.png",
       "dependencies": []
     }
   }
